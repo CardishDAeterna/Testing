@@ -10,8 +10,9 @@ except:
     SCIPY_AVAILABLE = False
 
 
-st_set_page_config(
-page_title= 'Aplikasi Uji Hipotesis',
-layout= 'wide',
-page_icon='🐠'
+st.set_page_config(
+    page_title= 'Aplikasi Uji Hipotesis',
+    layout= 'wide',
+    page_icon='☁'
 )
+ st.
